@@ -1,5 +1,6 @@
 # Nomi's MOTD
 
-MOTD? Message Of The Day!!! which is displayed when you login to the terminal, I'm focusing on making it GNU/Linux specific, but don't worry there's python:>
+MOTD? Message Of The Day!!! which is displayed when you login on the terminal.
+there's different languages here what should I choose? if you want fast and light use low-level language
 
-if you wish something lighter use c++ lol, compile by yourself
+I'll make a release build version
